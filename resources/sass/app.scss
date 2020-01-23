@@ -1,0 +1,47 @@
+.container-create-user {
+  margin-top: 5vh;
+  height: 620px;
+  border-radius: 10px;
+  box-shadow: 0 0 3em rgba(0, 0, 0, 0.2);
+}
+
+.form-create-user {
+  margin-top: 10px;
+  padding: 0 30px;
+}
+
+.errors {
+  height: 20px;
+  margin-bottom: 5px;
+  font-size: 13px;
+  color: #f00;
+}
+
+.menu {
+  background-color: #17a2b8;
+  border-radius: 10px 10px 0 0;
+  padding: 5px 15px;
+}
+
+.links {
+  text-decoration: none;
+  color: #fff;
+}
+.links:hover {
+  color: #fff;
+}
+
+.container-list-users {
+  margin-top: 5vh;
+  min-height: 620px;
+  border-radius: 10px;
+  box-shadow: 0 0 3em rgba(0, 0, 0, 0.2);  
+  padding-bottom: 10px;
+}
+
+.table-list{
+  margin-top: 20px;
+  padding: 0 30px;
+}
+
+@import "~bootstrap/scss/bootstrap";
