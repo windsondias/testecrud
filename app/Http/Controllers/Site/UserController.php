@@ -59,9 +59,10 @@ class UserController extends Controller
         if (empty($request->user_state)) {
             $json['id']['#user_state'] = "";
         }
+        
 
-        if (empty($request->user_phones)) {
-            $json['id']['#user_phone_01'] = "";
+        if (empty($request->user_phones[0])) {
+            $json['id']['#user_phone_00'] = "";
         }
 
         $data['user'] = [

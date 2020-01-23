@@ -66,30 +66,30 @@
                     <div class="form-group">
                         <div class="form-row">
                             <div class="col-6">
-                                <input type="text" class="form-control form-control-sm" id="user_phone_01" name="user_phones[]" data-mask="(00) 00000-0000" placeholder="Telefone 1">
+                                <input type="text" class="form-control form-control-sm" id="user_phone_00" name="user_phones[]" data-mask="(00) 00000-0000" placeholder="Telefone 1">
                             </div>
                             <div class="col-6">
-                                <input type="text" class="form-control form-control-sm" id="user_phone_02" name="user_phones[]" data-mask="(00) 00000-0000" placeholder="Telefone 2">
-                            </div>
-                        </div>
-                    </div>
-                    <div class="form-group">
-                        <div class="form-row">
-                            <div class="col-6">
-                                <input type="text" class="form-control form-control-sm" id="user_phone_03" name="user_phones[]" data-mask="(00) 00000-0000" placeholder="Telefone 3">
-                            </div>
-                            <div class="col-6">
-                                <input type="text" class="form-control form-control-sm" id="user_phone_04" name="user_phones[]" data-mask="(00) 00000-0000" placeholder="Telefone 4">
+                                <input type="text" class="form-control form-control-sm" id="user_phone_01" name="user_phones[]" data-mask="(00) 00000-0000" placeholder="Telefone 2">
                             </div>
                         </div>
                     </div>
                     <div class="form-group">
                         <div class="form-row">
                             <div class="col-6">
-                                <input type="text" class="form-control form-control-sm" id="user_phone_05" name="user_phones[]" data-mask="(00) 00000-0000" placeholder="Telefone 5">
+                                <input type="text" class="form-control form-control-sm" id="user_phone_02" name="user_phones[]" data-mask="(00) 00000-0000" placeholder="Telefone 3">
                             </div>
                             <div class="col-6">
-                                <input type="text" class="form-control form-control-sm" id="user_phone_06" name="user_phones[]" data-mask="(00) 00000-0000" placeholder="Telefone 6">
+                                <input type="text" class="form-control form-control-sm" id="user_phone_03" name="user_phones[]" data-mask="(00) 00000-0000" placeholder="Telefone 4">
+                            </div>
+                        </div>
+                    </div>
+                    <div class="form-group">
+                        <div class="form-row">
+                            <div class="col-6">
+                                <input type="text" class="form-control form-control-sm" id="user_phone_04" name="user_phones[]" data-mask="(00) 00000-0000" placeholder="Telefone 5">
+                            </div>
+                            <div class="col-6">
+                                <input type="text" class="form-control form-control-sm" id="user_phone_05" name="user_phones[]" data-mask="(00) 00000-0000" placeholder="Telefone 6">
                             </div>
                         </div>
                     </div>
